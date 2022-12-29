@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kerlinlopes/React-Mini-Quiz/static/css/main.e6c13ad2.css",
+    "main.js": "/kerlinlopes/React-Mini-Quiz/static/js/main.27fbef4f.js",
+    "index.html": "/kerlinlopes/React-Mini-Quiz/index.html",
+    "main.e6c13ad2.css.map": "/kerlinlopes/React-Mini-Quiz/static/css/main.e6c13ad2.css.map",
+    "main.27fbef4f.js.map": "/kerlinlopes/React-Mini-Quiz/static/js/main.27fbef4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27fbef4f.js"
+  ]
+}
